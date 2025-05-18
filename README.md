@@ -1,2 +1,2 @@
 # ContentCreationAgent
-Fully Local Youtube and Instagram Content Creation using Reflexion Agent
+Fully local Youtube and Instagram Content Creation using Reflexion Agent
